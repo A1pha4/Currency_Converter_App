@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Currency_Converter_App\bin\Debug\net6.0\Currency_Converter_App.exe
+C:\Users\USER\source\repos\Currency_Converter_App\bin\Debug\net6.0\Currency_Converter_App.deps.json
+C:\Users\USER\source\repos\Currency_Converter_App\bin\Debug\net6.0\Currency_Converter_App.runtimeconfig.json
+C:\Users\USER\source\repos\Currency_Converter_App\bin\Debug\net6.0\Currency_Converter_App.dll
+C:\Users\USER\source\repos\Currency_Converter_App\bin\Debug\net6.0\Currency_Converter_App.pdb
+C:\Users\USER\source\repos\Currency_Converter_App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\Currency_Converter_App.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\Currency_Converter_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\Currency_Converter_App.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\Currency_Converter_App.AssemblyInfo.cs
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\Currency_Converter_App.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\Currency_Converter_App.csproj.CopyComplete
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\Currency_Converter_App.dll
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\refint\Currency_Converter_App.dll
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\Currency_Converter_App.pdb
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\Currency_Converter_App.genruntimeconfig.cache
+C:\Users\USER\source\repos\Currency_Converter_App\obj\Debug\net6.0\ref\Currency_Converter_App.dll
