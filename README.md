@@ -41,7 +41,7 @@ Your inputs should be valid and follow the on screen prompts.
 If you'd like to contribute, please fork the repository and then create a pull request. See [CONTRIBUTING] file.
 
 ### License
-This project is licensed under the MIT License. See [LICENSE] file.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) file.
 
 ### Authors and Acknowledgments
 Owen Murunga, Joseph Ochieng, Amos Nzuki, Deche Wilson, Tamima Shee, Joseph Matiko, James Kiala, Abdulkadir Said.
