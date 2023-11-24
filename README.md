@@ -1,7 +1,7 @@
 # Currency_Converter_App
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-3.1%20%7C%205.0%20%7C%206.0-blue)
 - The Currency Converter App is a simple C# application designed to help users convert between two currencies based on input parameters such as the current to convert from, the current to convert to an d the amount they wish to convert. This currency converter aims to provide users with a quick and easy way to get an approximate idea of their live currency value in other currencies.
-![Currency_converter_ui](currency_conveter_ui)
+![Currency_converter_ui](currency_conveter_ui.png)
 
 
 ## Features
