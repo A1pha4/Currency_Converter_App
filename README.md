@@ -52,3 +52,7 @@ Microsoft Docs - C#
 - *abdulkadirsaid2103@gmail.com*
 - *josephochieng922@gmail.com*
 - *owenhood80@gmail.com*
+- *amosnzuki2003@gmail.com*
+- *matish9409@gmail.com*
+- *winfredmawia94@gmail.com*
+- *jameskiala54@gmail.com*
