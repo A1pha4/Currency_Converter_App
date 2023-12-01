@@ -30,7 +30,11 @@ git clone https://github.com/A1pha4/Currency_Converter_App.git
 ```bash 
 cd Currency_Converter_App
 ```
-3. Compile and run the application.
+3. Imstall Newtonsoft.Json package
+```bash
+dotnet add package Newtonsoft.Json
+```
+4. Compile and run the application.
 ```bash
 dotnet run
 ```
